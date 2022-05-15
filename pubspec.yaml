@@ -1,0 +1,95 @@
+name: project_tivoli
+description: Tivoli v oblaku
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.4.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: 
+  path_provider:
+  google_maps_flutter: ^1.0.6
+  shared_preferences:
+  location: ^3.0.0
+  carousel_slider: ^2.3.1
+  cupertino_icons: ^1.0.1
+  percent_indicator: "^2.1.7+2"
+  flutter_exif: ^1.0.1
+  photo_view:
+  flutter_polyline_points:
+  package_info:
+  material_design_icons_flutter: 4.0.5855
+  flutter_launcher_icons:
+  audioplayers: ^0.18.3
+  flex_color_picker: any
+  extended_tabs: any
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+flutter_icons:
+  image_path: "assets/menu_ass/logo.png"
+  android: true 
+  
+
+flutter:
+
+  assets:
+    - assets/
+    - assets/tree_images/3050710/
+    - assets/tree_images/3234434/
+    - assets/tree_images/3050985/
+    - assets/tree_images/3050658/
+    - assets/tree_images/3048231/
+    - assets/tree_images/3048261/
+    - assets/tree_images/3050692/
+    - assets/tree_images/3386040/
+    - assets/tree_images/3050694/
+    - assets/tree_images/3048253/
+    - assets/tree_images/3050631/
+    - assets/tree_images/3051717/
+    - assets/tree_images/3234426/
+    - assets/tree_images/3051240/
+    - assets/tree_images/3051242/
+    - assets/tree_images/3051248/
+    - assets/tree_images/3048659/
+    - assets/tree_images/3051158/
+    - assets/tree_images/3051252/
+    - assets/tree_images/3051141/
+    - assets/tree_images/3051086/
+    - assets/tree_images/3051087/
+    - assets/tree_images/3233947/
+    - assets/tree_images/3051581/
+    - assets/tree_images/3233972/
+    - assets/tree_images/3050547/
+    - assets/tree_images/3234427/
+    - assets/tree_images/3233806/
+    - assets/tree_images/3233724/
+    - assets/tree_images/3233722/
+    - assets/excel.db
+    - assets/menu_ass/logo.png
+    - assets/smreka.png
+
+  uses-material-design: true
