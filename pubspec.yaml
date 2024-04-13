@@ -50,7 +50,7 @@ dev_dependencies:
   flutter_launcher_icons:
 
 flutter_icons:
-  image_path: "assets/menu_ass/logo.png"
+  image_path: "assets/menu_assets/logo.png"
   android: true 
   
 
@@ -89,7 +89,7 @@ flutter:
     - assets/tree_images/3233724/
     - assets/tree_images/3233722/
     - assets/excel.db
-    - assets/menu_ass/logo.png
+    - assets/menu_assets/logo.png
     - assets/smreka.png
 
   uses-material-design: true

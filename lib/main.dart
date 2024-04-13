@@ -89,7 +89,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Container(
                         height: 225.0,
                         child: DrawerHeader(
-                            child: Image(image: AssetImage("assets/menu_ass/logo.png"), height: 120, width: 120,),
+                            child: Image(image: AssetImage("assets/menu_assets/logo.png"), height: 120, width: 120,),
                         ),
                       ),
                       ListTile(

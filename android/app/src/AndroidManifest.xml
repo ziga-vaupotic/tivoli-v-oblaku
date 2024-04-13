@@ -5,7 +5,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
    <application
         android:label="Tivoli v Oblaku"
-        android:icon="assets/menu_ass/logo.png">
+        android:icon="assets/menu_assets/logo.png">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

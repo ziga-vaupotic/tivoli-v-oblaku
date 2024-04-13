@@ -24,7 +24,7 @@ class _ONasState extends State<ONas> {
         body: Container(child: SingleChildScrollView( 
 
         child: Column(  children: [ 
-          Image(image: AssetImage("assets/menu_ass/logo.png")),
+          Image(image: AssetImage("assets/menu_assets/logo.png")),
           Text(" O aplikaciji: ", style: new TextStyle(fontSize: 30), textAlign: TextAlign.center),
           SizedBox(height: 15),
           Text('Aplikacija je bila narejena znotraj projekta "Zaupajmo v lastno ustvarjalnost". Ime "Tivoli v oblaku" je dobila po temi projekta, ki je spoznavanje dendrologije v parku Tivoli. ', style: new TextStyle(fontSize: 14.0),textAlign: TextAlign.left),
