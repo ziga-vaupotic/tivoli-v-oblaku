@@ -5,7 +5,7 @@ In this project, we were exploring the possibility of creating an application th
 
 ## Instalation
 
-There are a few common ways of installing the project. The most straightforward way is to first install [DART](https://dart.dev/), [FLUTTER](https://flutter.dev/) and clone the repository.
+There are a few common ways of installing this project. The most straightforward way is to first install [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/). Followed by cloning the project. The project might have been made on an older version of Flutter, therefore, there might be a few outdated function calls, etc.
 
 ## Contributing
 
@@ -16,8 +16,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-Project is open source, however, one must respect the following license.
-[MIT](https://choosealicense.com/licenses/mit/)
+Project is open source, however, one must respect the [MIT license](https://choosealicense.com/licenses/mit/).
 
 
 ## Top contributors
@@ -31,4 +30,4 @@ Lucija Rotar - tree markdown and database collection
 
 ## Acknowledegement
 
-We would like to thank High School Jožeta Plečnika Ljubljana for financing the project.
+We would like to thank High School Jožeta Plečnika Ljubljana for financing this project.
